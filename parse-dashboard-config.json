@@ -2,7 +2,10 @@
   "apps": [
     {
       "serverURL": "https://back-pug.herokuapp.com/", // For an app still hosted on Parse.com
-      "appName": "Back Pug",
+      "appId": "1",
+      "javascriptKey": "1",
+      "restKey": "1",
+      "appName": "Super Pug",
       "production": true
     }
   ],
