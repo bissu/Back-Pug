@@ -3,8 +3,8 @@
     {
       "serverURL": "https://super-pug.herokuapp.com/",
       "appId": "super-pug",
-      "javascriptKey": "1",
-      "restKey": "1",
+      "javascriptKey": "super-pug-key",
+      "restKey": "super-pug-key",
       "appName": "Super Pug",
       "production": true
     }
