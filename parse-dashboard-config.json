@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://back-pug.herokuapp.com/",
+      "serverURL": "https://super-pug.herokuapp.com/",
       "appId": "1",
       "javascriptKey": "1",
       "restKey": "1",
