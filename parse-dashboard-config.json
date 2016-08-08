@@ -5,6 +5,7 @@
       "appId": "super-pug",
       "javascriptKey": "super-pug-key",
       "restKey": "super-pug-key",
+      "masterKey": "super-pug-key",
       "appName": "Super Pug",
       "production": true
     }
